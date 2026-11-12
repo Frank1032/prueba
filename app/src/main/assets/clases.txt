@@ -1,0 +1,5 @@
+araña
+ardilla
+gallina
+gato
+vaca

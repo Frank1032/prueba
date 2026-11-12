@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#F3F5F4</color>
+    <color name="superficie">#FFFFFF</color>
+    <color name="tinta">#12324A</color>
+    <color name="tinta_suave">#4F6474</color>
+    <color name="linea">#D5DEE2</color>
+    <color name="acento">#1F6B87</color>
+    <color name="barra">#CFE0E7</color>
+    <color name="ambar">#B7791F</color>
+    <color name="ambar_fondo">#FBF1DF</color>
+</resources>
